@@ -15,5 +15,4 @@ print(sub)
 e = True and False
 print(e)
 
-# Har kar bhi jeetne wale ko bazigar kheta he aur jo true ko false bana de usko NOT operator khete he!
 print(not(e))
